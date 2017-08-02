@@ -1,0 +1,35 @@
+.interest{
+  font-style: italic;
+}
+.image_style{
+  width: 300px;
+  margin: 1px;
+}
+
+.span_style{
+  font-weight: bold;
+}
+
+.body{
+  padding: 5px;
+  border: solid 1px;
+  box-shadow: 5px 5px 5px #ccc;
+}
+
+.information{
+  border: solid 1px;
+  padding: 5px;
+  margin: 5px;
+}
+
+.body{
+  text-align: left;
+  border-style: solid;
+  width: 375px;
+  height: 100%;
+}
+
+.ulist{
+  transform:left;
+  list-style-type: none;
+}
